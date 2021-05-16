@@ -1,2 +1,2 @@
-# Yet_Another_DCTF_Writeup
-DCTF was an amazing experience it was a lot of fun. Thanks guys for the incredible ctf.
+# Yet Another DCTF Writeup
+Some short writeups i wrote for some challenges on DCTF-2021.
